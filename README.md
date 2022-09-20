@@ -1,6 +1,8 @@
 # Kindlepi2
 ![](https://miro.medium.com/max/780/1*1TWFlSHPjbBe82wCDJLr0g.png)
 
+https://medium.com/@vargascypher/kindlepi-2-3016ed511850
+
 Hoje venho mostrar a vocês como utilizar o seu kindle 4 NT como monitor para sua [Raspberry pi](http://www.raspberrypi.org/).
 
 Diferente de outros tutoriais neste não utilizaremos o VNC e nem emuladores de terminal como Kterm.
@@ -169,6 +171,6 @@ Prontinho agora você tem seu mais novo monitor _E-ink !!!_
 
 ## Testes
 
-![](https://miro.medium.com/max/704/1*f9uinkl4GCc2Osumvd5L9g.gif)
+https://medium.com/@vargascypher/kindlepi-2-3016ed511850
 
 Obrigado por ler até aqui e bom hack !!!
